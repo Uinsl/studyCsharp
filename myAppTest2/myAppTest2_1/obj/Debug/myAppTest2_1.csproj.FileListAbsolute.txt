@@ -1,0 +1,7 @@
+C:\Users\young\source\repos\myAppTest2\myAppTest2_1\bin\Debug\myAppTest2_1.exe.config
+C:\Users\young\source\repos\myAppTest2\myAppTest2_1\bin\Debug\myAppTest2_1.exe
+C:\Users\young\source\repos\myAppTest2\myAppTest2_1\bin\Debug\myAppTest2_1.pdb
+C:\Users\young\source\repos\myAppTest2\myAppTest2_1\obj\Debug\myAppTest2_1.csproj.AssemblyReference.cache
+C:\Users\young\source\repos\myAppTest2\myAppTest2_1\obj\Debug\myAppTest2_1.csproj.CoreCompileInputs.cache
+C:\Users\young\source\repos\myAppTest2\myAppTest2_1\obj\Debug\myAppTest2_1.exe
+C:\Users\young\source\repos\myAppTest2\myAppTest2_1\obj\Debug\myAppTest2_1.pdb
