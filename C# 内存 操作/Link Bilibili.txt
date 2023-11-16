@@ -1,0 +1,45 @@
+对象内存分布详解
+https://www.bilibili.com/video/BV1Th411g7yq
+
+数组内存分配与堆内存
+https://www.bilibili.com/video/BV15g4y1x7cn
+
+static 内存
+https://www.bilibili.com/video/BV1Hg4y1T7MF
+
+get&set
+https://www.bilibili.com/video/BV1Ph4y1W7Ge
+
+命名空间
+https://www.bilibili.com/video/BV1ma4y1P7Qg
+
+继承
+https://www.bilibili.com/video/BV1NM411G7Mc
+
+C# {}
+https://blog.csdn.net/beijinghorn/article/details/129599478
+{}
+代码只在这个区域
+
+
+https://www.bilibili.com/video/BV14p4y1S7yk
+winform 图书管理系统
+
+https://www.bilibili.com/video/BV1gb4y1r7tD
+asp.net 快速入门
+
+
+反射
+https://www.bilibili.com/video/BV1Sk4y1m7av
+
+
+
+
+
+
+
+
+
+
+
+
